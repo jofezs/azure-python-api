@@ -2,6 +2,12 @@
 
 A FastAPI application deployed on Azure App Service with automated CI/CD via GitHub Actions.
 
+## Deployment Verification
+
+The API was successfully deployed to Azure App Service using GitHub Actions.
+
+![Deployment Proof](deployment.png)
+
 ## Live API
 
 | Endpoint | Description |
