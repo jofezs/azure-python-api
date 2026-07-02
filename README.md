@@ -6,9 +6,9 @@ A FastAPI application deployed on Azure App Service with automated CI/CD via Git
 
 | Endpoint | Description |
 |----------|-------------|
-| [`/`](https://python-api-azure-b9emfebagvg4hvac.southindia-01.azurewebsites.net/) | Root — API status |
-| [`/helloworld`](https://python-api-azure-b9emfebagvg4hvac.southindia-01.azurewebsites.net/helloworld) | Returns `{"message": "Hello World"}` |
-| [`/docs`](https://python-api-azure-b9emfebagvg4hvac.southindia-01.azurewebsites.net/docs) | Interactive Swagger UI |
+| [`/`](https://azure-python-api-cmebh0endvhdb6dx.southindia-01.azurewebsites.net/) | Root — API status |
+| [`/helloworld`](https://azure-python-api-cmebh0endvhdb6dx.southindia-01.azurewebsites.net/helloworld) | Returns `{"message": "Hello World"}` |
+| [`/docs`](https://azure-python-api-cmebh0endvhdb6dx.southindia-01.azurewebsites.net/docs) | Interactive Swagger UI |
 
 ## Project Structure
 
